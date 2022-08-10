@@ -8,9 +8,9 @@ import React from 'react'
 
 import { Head } from '@/components/Head'
 import { Header } from '@/components/Header'
-import { wonders,WonderBlock } from '@/components/WonderBlock';
+import { wonders, WonderBlock } from '@/components/WonderBlock';
 import { FaqBlock } from '@/components/Faq'
-import {Footer} from '@/components/Footer'
+import { Footer } from '@/components/Footer'
 
 const HomePage = () => {
 
@@ -101,7 +101,7 @@ const TrueHome: NextPage = () => {
   return (
     <div className='h-full bg-black'>
       <Head />
-      <div className="bg-black">
+      <div className="bg-zkforest">
         <div className="hero-img">
           <Header hidden={false} links={[]} />
 
@@ -117,14 +117,19 @@ const TrueHome: NextPage = () => {
                   More players, More developers, More fun.
                 </p>
               </div>
-              <div className="w-full  sm:w-2/5 text-center p-10 bg-zkforest bg-gray-800/10 rounded self-center ">
+              {/* <div className="w-full  sm:w-2/5 text-center p-10 bg-zkforest bg-gray-800/10 rounded self-center ">
                 <h2>
                   1 round/1 month<br /> & earn $ZKF <br /> & Combinable NFTs
+                </h2>
+              </div> */}
+              <div className="w-full  sm:w-2/5 text-center text-indigo-900 p-10 bg-green-200 rounded self-center ">
+                <h2>
+                  come to a new game <br/>
+                  just like a new dream <br/>
                 </h2>
               </div>
 
 
-         
             </div>
           </div>
         </div>
@@ -144,7 +149,7 @@ const TrueHome: NextPage = () => {
         <div className="w-1/2 py-8 text-center mt-20">
           <h1 className="mb-4"> Dark Forest</h1>
           <p className="sm:text-2xl">
-          Dark Forest is an MMO strategy game built with zkSNARKs on Gnosis Chain (formerly xDai). Players explore an infinite, procedurally-generated universe, conquering planets and growing a space empire.
+            Dark Forest is an MMO strategy game built with zkSNARKs on Gnosis Chain (formerly xDai). Players explore an infinite, procedurally-generated universe, conquering planets and growing a space empire.
 
 
             {' '}
@@ -163,12 +168,12 @@ const TrueHome: NextPage = () => {
 
 
 
-     
-      <FaqBlock/>
-     
-     
 
-      <Footer/>
+      <FaqBlock />
+
+
+
+      <Footer />
     </div>
   )
 
