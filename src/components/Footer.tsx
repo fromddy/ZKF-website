@@ -9,7 +9,7 @@ export function Footer(): ReactElement {
                     href="https://github.com/dfarchon/zkforest.github.io"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ "text-decoration" : "underline"}}
+                    className="opensource"
                 >
                     open source
                 </a>

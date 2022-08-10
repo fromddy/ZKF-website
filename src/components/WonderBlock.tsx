@@ -60,9 +60,8 @@ export const WonderBlock = (props: Wonder) => {
 
         <div className="flex gap-5 rounded pt-5 mt-auto">
               <div className="flex flex-wrap w-full">
-  
                     <a
-                      target="_blank"
+                  
                       href={props.url as string}
                     
                       className="bg-gray-800 hover:bg-gray-600 py-2 rounded-xl px-5 my-1 text-lg  text-gray-200 border border-gray-700 w-full text-center"
@@ -70,7 +69,7 @@ export const WonderBlock = (props: Wonder) => {
                       {props.name}
                     </a>
                     <a
-                      target="_blank"
+                    
                       href={props.url as string}
                     
                       className="bg-gray-800 hover:bg-gray-600 py-2 rounded-xl px-5 my-1 text-lg  text-gray-200 border border-gray-700 w-full text-center"
