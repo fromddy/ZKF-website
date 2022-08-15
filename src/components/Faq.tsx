@@ -39,13 +39,13 @@ export const FaqBlock = () => {
           <Disclosure.Panel className="text-gray-200 py-4 px-4">
           You can visit  <a  className="opensource" href="https://zkga.me/"> the official site</a> to 
           play a lobby on Mainnet Gnosis Chain, 
-          or <a className="opensource" href="https://arena.dfdao.xyz/">DFDAO's Arena</a> to play an Arena match 
+          or <a className="opensource" href="https://arena.dfdao.xyz/">DFDAO&apos;s Arena</a> to play an Arena match 
           on Optimistic Gnosis Chain. In both, you can create your own round, 
           setting rules the way you want, and can share the url with friends (or foes) to battle together. 
           Occassionally, there are also Official Rounds - 
           these are hosted by the official Dark Forest team and 
           often get thousands of players (whitelist keys are required) - 
-          & Community Rounds or by other Guilds/DAO's 
+          & Community Rounds or by other Guilds/DAO&apos;s 
           and will generally attract a few hundred players.
           </Disclosure.Panel>
         </Disclosure>
