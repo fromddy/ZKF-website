@@ -123,7 +123,7 @@ const TrueHome: NextPage = () => {
                   1 round/1 month<br /> & earn $ZKF <br /> & Combinable NFTs
                 </h2>
               </div> */}
-              <div className="w-full  sm:w-2/5 text-center text-indigo-900 p-10 bg-green-200 rounded self-center ">
+              <div className="w-full  sm:w-2/5 text-center text-indigo-900 p-10 bg-green-200 rounded self-center bg-opacity-75">
                 <h2>
                  
                   Infinite possibilities, <br/>zero knowledge. <br/>
