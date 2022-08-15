@@ -110,11 +110,12 @@ const TrueHome: NextPage = () => {
             <br />  <br />  <br /> <br />  <br />  <br />
             <div className="container flex mx-auto flex-wrap ">
               <div className="w-full sm:w-2/5 p-8 sm:py-20 ml-32">
-                <h4>Dark Forest Players DAO</h4>
+                <h4>Dark Forest Players Guild</h4>
                 <h1>ZK Forest </h1>
                 <p className="font-display sm:text-2xl mt-8">
-                  We need stable dark forest community round. <br />
-                  More players, More developers, More fun.
+             
+                 Meet ZK Forest, a new team of players with experience, ability and grand new ideas.
+
                 </p>
               </div>
               {/* <div className="w-full  sm:w-2/5 text-center p-10 bg-zkforest bg-gray-800/10 rounded self-center ">
@@ -124,8 +125,8 @@ const TrueHome: NextPage = () => {
               </div> */}
               <div className="w-full  sm:w-2/5 text-center text-indigo-900 p-10 bg-green-200 rounded self-center ">
                 <h2>
-                  come to a new game <br/>
-                  just like a new dream <br/>
+                 
+                  Infinite possibilities, <br/>zero knowledge. <br/>
                 </h2>
               </div>
 

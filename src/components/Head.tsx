@@ -5,7 +5,7 @@ import type { ReactElement } from 'react';
 const meta = {
     title: 'zkForest',
     description:
-        'Dark Forest Players DAO',
+        'Dark Forest Players Guild',
     website: 'https://zkForest.xyz/',
     // todo: need a logo image
     // image: 'https://i.ibb.co/XYPNdCT/Screenshot-2022-02-21-132035.png',

@@ -1,3 +1,27 @@
+
+
+# zkforest website
+
+
+
+
+
+https://zkforest.netlify.app/
+
+# References
+
+https://github.com/lootproject/website
+
+https://github.com/BibliothecaForAdventurers/realms-react
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
